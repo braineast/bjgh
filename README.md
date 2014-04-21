@@ -1,4 +1,4 @@
 bjgh
 ====
 
-The appointments wizard for hospitals of beijing.
+The appointments helper for hospitals of beijing.
